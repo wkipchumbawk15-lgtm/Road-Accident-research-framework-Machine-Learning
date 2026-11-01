@@ -1,0 +1,35 @@
+cause_description,cause_category,mapping_status
+Asleep,Human condition / impairment,provisional
+Crossing without due care at road junction,Traffic compliance / signalling,provisional
+Cutting in,Lane / manoeuvring,provisional
+Dazzled by lights of another vehicle,Attention / judgement,provisional
+Driver negligently opening door of vehicle,Parking / vehicle manoeuvre,provisional
+Entering parking space [angle or flush] negligently,Parking / vehicle manoeuvre,provisional
+Failing to comply with traffic sign or signal,Traffic compliance / signalling,provisional
+Failing to keep to the near side or to the proper traffic lane,Lane / manoeuvring,provisional
+Failing to signal or giving indistinct or incorrect signal,Traffic compliance / signalling,provisional
+Failing to stop to afford free passage to pedestrians at pedestrian crossing lane,Traffic compliance / signalling,provisional
+Fatigued,Human condition / impairment,provisional
+Forcing way through persons boarding or alighting from omnibus,Traffic compliance / signalling,provisional
+"Hampered by passenger, animal or luggage in or on vehicle",Attention / judgement,provisional
+Ill,Human condition / impairment,provisional
+Inattentive or attention diverted,Attention / judgement,provisional
+Inexperienced with type of vehicle in use at the time,Human condition / impairment,provisional
+Leaving flush-parking space negligently,Parking / vehicle manoeuvre,provisional
+Losing control (particulars to be specified),Speed / control,provisional
+"Misjudging clearance, distance, or speed vehicles or objects)",Attention / judgement,provisional
+Other apparent error of judgement or negligence (specify),Attention / judgement,provisional
+Overtaking improperly,Lane / manoeuvring,provisional
+Pedal cyclist holding onto another vehicle,Other mapped cause,provisional
+Physically defective,Human condition / impairment,provisional
+Proceeding at excessive speed having regard to conditions,Speed / control,provisional
+"Pulling out from near side or from one traffic lane (not from parking area to another without due care",Lane / manoeuvring,provisional
+Reversing from angle parking space negligently,Parking / vehicle manoeuvre,provisional
+Reversing negligently (other than from parking area),Parking / vehicle manoeuvre,provisional
+Skidding (give cause of skid),Speed / control,provisional
+Stopping suddenly,Speed / control,provisional
+Swerving,Speed / control,provisional
+Turning left without due care,Lane / manoeuvring,provisional
+Turning right without due care,Lane / manoeuvring,provisional
+Turning round in road negligently,Lane / manoeuvring,provisional
+Under the influence of drink or a drug,Human condition / impairment,provisional

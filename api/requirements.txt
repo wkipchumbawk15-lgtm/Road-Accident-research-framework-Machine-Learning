@@ -1,0 +1,7 @@
+rq
+redis
+minio
+pandas
+uvicorn[standard]
+fastapi
+

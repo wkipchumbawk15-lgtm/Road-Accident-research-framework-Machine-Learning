@@ -1,0 +1,9 @@
+rq
+redis
+minio
+pandas
+scikit-learn
+joblib
+openpyxl
+httpx
+

@@ -1,0 +1,62 @@
+cause_code,cause_description,cause_actor,mapping_source
+1,Fatigued,Driver,Uploaded accident cause code.xlsx
+31,Fatigued,Pedal Cyclist,Uploaded accident cause code.xlsx
+2,Asleep,Driver,Uploaded accident cause code.xlsx
+3,Ill,Driver,Uploaded accident cause code.xlsx
+32,Ill,Pedal Cyclist,Uploaded accident cause code.xlsx
+4,Under the influence of drink or a drug,Driver,Uploaded accident cause code.xlsx
+33,Under the influence of drink or a drug,Pedal Cyclist,Uploaded accident cause code.xlsx
+5,Physically defective,Driver,Uploaded accident cause code.xlsx
+34,Physically defective,Pedal Cyclist,Uploaded accident cause code.xlsx
+6,Inexperienced with type of vehicle in use at the time,Driver,Uploaded accident cause code.xlsx
+35,Inexperienced with type of vehicle in use at the time,Pedal Cyclist,Uploaded accident cause code.xlsx
+7,Proceeding at excessive speed having regard to conditions,Driver,Uploaded accident cause code.xlsx
+36,Proceeding at excessive speed having regard to conditions,Pedal Cyclist,Uploaded accident cause code.xlsx
+8,Failing to keep to the near side or to the proper traffic lane,Driver,Uploaded accident cause code.xlsx
+37,Failing to keep to the near side or to the proper traffic lane,Pedal Cyclist,Uploaded accident cause code.xlsx
+9,Cutting in,Driver,Uploaded accident cause code.xlsx
+38,Cutting in,Pedal Cyclist,Uploaded accident cause code.xlsx
+10,Overtaking improperly,Driver,Uploaded accident cause code.xlsx
+39,Overtaking improperly,Pedal Cyclist,Uploaded accident cause code.xlsx
+11,Swerving,Driver,Uploaded accident cause code.xlsx
+40,Swerving,Pedal Cyclist,Uploaded accident cause code.xlsx
+12,Skidding (give cause of skid),Driver,Uploaded accident cause code.xlsx
+41,Skidding (give cause of skid),Pedal Cyclist,Uploaded accident cause code.xlsx
+13,Forcing way through persons boarding or alighting from omnibus,Driver,Uploaded accident cause code.xlsx
+42,Forcing way through persons boarding or alighting from omnibus,Pedal Cyclist,Uploaded accident cause code.xlsx
+14,Failing to stop to afford free passage to pedestrians at pedestrian crossing lane,Driver,Uploaded accident cause code.xlsx
+43,Failing to stop to afford free passage to pedestrians at pedestrian crossing lane,Pedal Cyclist,Uploaded accident cause code.xlsx
+15,Turning round in road negligently,Driver,Uploaded accident cause code.xlsx
+44,Turning round in road negligently,Pedal Cyclist,Uploaded accident cause code.xlsx
+16,Reversing negligently (other than from parking area),Driver,Uploaded accident cause code.xlsx
+17,Failing to comply with traffic sign or signal,Driver,Uploaded accident cause code.xlsx
+45,Failing to comply with traffic sign or signal,Pedal Cyclist,Uploaded accident cause code.xlsx
+18,Failing to signal or giving indistinct or incorrect signal,Driver,Uploaded accident cause code.xlsx
+46,Failing to signal or giving indistinct or incorrect signal,Pedal Cyclist,Uploaded accident cause code.xlsx
+19,Pulling out from near side or from one traffic lane (not from parking area to another without due care,Driver,Uploaded accident cause code.xlsx
+47,Pulling out from near side or from one traffic lane (not from parking area to another without due care,Pedal Cyclist,Uploaded accident cause code.xlsx
+20,Inattentive or attention diverted,Driver,Uploaded accident cause code.xlsx
+48,Inattentive or attention diverted,Pedal Cyclist,Uploaded accident cause code.xlsx
+21,"Hampered by passenger, animal or luggage in or on vehicle",Driver,Uploaded accident cause code.xlsx
+49,"Hampered by passenger, animal or luggage in or on vehicle",Pedal Cyclist,Uploaded accident cause code.xlsx
+22,Turning right without due care,Driver,Uploaded accident cause code.xlsx
+50,Turning right without due care,Pedal Cyclist,Uploaded accident cause code.xlsx
+23,Turning left without due care,Driver,Uploaded accident cause code.xlsx
+51,Turning left without due care,Pedal Cyclist,Uploaded accident cause code.xlsx
+24,Driver negligently opening door of vehicle,Driver,Uploaded accident cause code.xlsx
+25,Crossing without due care at road junction,Driver,Uploaded accident cause code.xlsx
+52,Crossing without due care at road junction,Pedal Cyclist,Uploaded accident cause code.xlsx
+53,Pedal cyclist holding onto another vehicle,Pedal Cyclist,Uploaded accident cause code.xlsx
+26,Losing control (particulars to be specified),Driver,Uploaded accident cause code.xlsx
+54,Losing control (particulars to be specified),Pedal Cyclist,Uploaded accident cause code.xlsx
+27,Dazzled by lights of another vehicle,Driver,Uploaded accident cause code.xlsx
+55,Dazzled by lights of another vehicle,Pedal Cyclist,Uploaded accident cause code.xlsx
+28,Stopping suddenly,Driver,Uploaded accident cause code.xlsx
+56,Stopping suddenly,Pedal Cyclist,Uploaded accident cause code.xlsx
+29,"Misjudging clearance, distance, or speed vehicles or objects)",Driver,Uploaded accident cause code.xlsx
+57,"Misjudging clearance, distance, or speed vehicles or objects)",Pedal Cyclist,Uploaded accident cause code.xlsx
+30,Other apparent error of judgement or negligence (specify),Driver,Uploaded accident cause code.xlsx
+58,Other apparent error of judgement or negligence (specify),Pedal Cyclist,Uploaded accident cause code.xlsx
+30[A],Reversing from angle parking space negligently,Driver,Uploaded accident cause code.xlsx
+30[B],Entering parking space [angle or flush] negligently,Driver,Uploaded accident cause code.xlsx
+30[C],Leaving flush-parking space negligently,Driver,Uploaded accident cause code.xlsx

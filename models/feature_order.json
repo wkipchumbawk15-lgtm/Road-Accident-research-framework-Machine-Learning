@@ -1,0 +1,21 @@
+{
+  "target": "cause_category",
+  "predictors": [
+    "year",
+    "month",
+    "hour",
+    "minute",
+    "day_of_week",
+    "is_weekend",
+    "county",
+    "road",
+    "place",
+    "vehicle_type",
+    "gender",
+    "age",
+    "age_group",
+    "victim",
+    "time_period",
+    "no"
+  ]
+}

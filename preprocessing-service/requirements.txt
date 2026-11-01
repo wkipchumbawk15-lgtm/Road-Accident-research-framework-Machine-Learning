@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+minio
+redis
+rq
+pandas
+numpy
+openpyxl
